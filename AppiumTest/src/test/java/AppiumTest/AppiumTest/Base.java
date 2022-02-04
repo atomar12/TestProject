@@ -14,7 +14,7 @@ public class Base {
 
 	public static AndroidDriver<AndroidElement> capabilities() throws MalformedURLException {
 
-		AndroidDriver<AndroidElement> driver;
+		AndroidDriver<AndroidElement> driver;//Good work
 
 		DesiredCapabilities cap = new DesiredCapabilities();
 
